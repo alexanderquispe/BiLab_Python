@@ -16,3 +16,9 @@ This is a course in Python for Business
 2. Wonka
 3. Avatar
 4. Starwars
+
+## Artist
+1. Ronish
+2. Chacalon Jr
+3. Daivis Orozco
+4. Pintura Roja
