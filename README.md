@@ -17,8 +17,9 @@ This is a course in Python for Business
 3. Avatar
 4. Starwars
 
-## Artist
-1. Ronish
-2. Chacalon Jr
-3. Daivis Orozco
-4. Pintura Roja
+## Artists
+1. Adele
+2. Zayn
+3. Danny Ocean
+4. Shakira
+
