@@ -31,4 +31,6 @@ This is a course in Python for Business
 5. Diez de Octubre
 6. Santa Maria de la Providencia
 7. Primer Colegio NAcional de Nuestra señora de Guadalupe
+8. Rosa de Santa Maria
+9. Maria de la Providencia
 
