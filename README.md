@@ -23,3 +23,12 @@ This is a course in Python for Business
 3. Danny Ocean
 4. Shakira
 
+## Schools
+1. Saleciano
+2. Trilce
+3. Talentos
+4. Claretiano
+5. Diez de Octubre
+6. Santa Maria de la Providencia
+7. Primer Colegio NAcional de Nuestra señora de Guadalupe
+
